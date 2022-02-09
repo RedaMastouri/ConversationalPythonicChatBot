@@ -25,3 +25,6 @@ If you are new to Twilio create a free account now. You can review the features 
 
 # Credit 
 Reda Mastouri and Miguel Ginberg
+
+# Blog
+https://www.twilio.com/blog/build-a-whatsapp-chatbot-with-python-flask-and-twilio
